@@ -10,11 +10,12 @@
 
 /* Apply styles to item-1 */
 .item-1 {
+	display: flex;
 	flex:2
   width: 100px;
   height: 100px;
   background-color: red;
-	display: flex;
+	
   justify-content: center;
   align-items: center;
 }
