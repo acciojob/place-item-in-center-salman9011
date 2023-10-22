@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	backgroud-color:red;
+	width:10vw;
+	height:10vh;
+	
+	
+}
