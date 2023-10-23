@@ -1,6 +1,6 @@
 /* Apply styles to the holder to make it a flex container and center its content */
 .holder {
-  display:block;
+  display:flex;
   justify-content:center;
   align-items:center;
   width: 100vw;
@@ -9,11 +9,10 @@
 
 /* Apply styles to item-1 */
 .item {
-display: block;
+display: flex;
   width: 100px;
   height: 100px;
   background-color: red;
-	
   justify-content: center;
   align-items: center;
 }
